@@ -4,7 +4,6 @@
 // @version      3.1.1
 // @description  Sends applimg as CapPho only when user clicks the custom button (for https://sarathi.parivahan.gov.in/sarathiservice/authenticationaction.do)
 // @match        https://sarathi.parivahan.gov.in/sarathiservice/authenticationaction.do?authtype=Anugyna
-// @match        https://sarathi.parivahan.gov.in/sarathiservice/*
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
